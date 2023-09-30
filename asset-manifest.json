@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jingxuan-zhang/static/css/main.8645befe.css",
+    "main.js": "/jingxuan-zhang/static/js/main.570f1dcc.js",
+    "static/js/787.4f0777a3.chunk.js": "/jingxuan-zhang/static/js/787.4f0777a3.chunk.js",
+    "index.html": "/jingxuan-zhang/index.html",
+    "main.8645befe.css.map": "/jingxuan-zhang/static/css/main.8645befe.css.map",
+    "main.570f1dcc.js.map": "/jingxuan-zhang/static/js/main.570f1dcc.js.map",
+    "787.4f0777a3.chunk.js.map": "/jingxuan-zhang/static/js/787.4f0777a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8645befe.css",
+    "static/js/main.570f1dcc.js"
+  ]
+}
